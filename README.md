@@ -1,6 +1,6 @@
 <h1 style="color: #44AEFB;"> 👨🏻‍💻 Khaled Badran </h1>
 
-![github_cover_banner](?????????????)
+![github_cover_banner](https://cdn.discordapp.com/attachments/1042469495920398439/1134560584931745873/Klapouchy_Programmer_artist_banner_Wojciech_Siudmak_e960dd30-4b89-4141-854b-02fea08bbf2d.png)
 
 <p align:"center" style="text-align: justify; margin: 0 50px; font-size: 17px;" >
     I am a passionate, software developer and occasional content creator. Currently don't have any plan for life, tried soo many things, every time felt life just throwing some obstacles in front of me and finally I cracked and going with flow now. Chilling, enjoying my time, learning and doing planty of stuff. Aside from that, interested in AI, hopefully never will have access to quantum computer other wise my overpowered AI- JEFF will take over the world :)
