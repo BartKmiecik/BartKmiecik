@@ -1,4 +1,4 @@
-<h1 style="color: #44AEFB;"> 👨🏻‍💻 Khaled Badran </h1>
+<h1 style="color: #44AEFB;"> 👨🏻‍💻 Bart Kmiecik </h1>
 
 ![github_cover_banner](https://cdn.discordapp.com/attachments/1042469495920398439/1134560584931745873/Klapouchy_Programmer_artist_banner_Wojciech_Siudmak_e960dd30-4b89-4141-854b-02fea08bbf2d.png)
 
