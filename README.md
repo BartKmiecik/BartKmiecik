@@ -4,6 +4,7 @@
 
 <p align:"center" style="text-align: justify; margin: 0 50px; font-size: 17px;" >
     I am a passionate, software developer and occasional content creator. Currently don't have any plan for life, tried soo many things, every time felt life just throwing some obstacles in front of me and finally I cracked and going with flow now. Chilling, enjoying my time, learning and doing planty of stuff. Aside from that, interested in AI, hopefully never will have access to quantum computer other wise my overpowered AI- JEFF will take over the world :)
+    Btw. Today just publish this changes to keep steak intact, playing baldur's game
 <br>
 <br>
 <div align="center">
